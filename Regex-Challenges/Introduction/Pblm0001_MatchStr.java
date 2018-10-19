@@ -1,4 +1,4 @@
-/* Match the String "hackerrank" */
+/* Match the String 'hackerrank' */
 public class Solution 
 {
 	public static void main(String[] args) {
